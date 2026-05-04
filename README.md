@@ -6,3 +6,5 @@ Filtros interactivos por institución (Platzi, ESIT, Capacítate, CDPAC)
 Línea de tiempo de tu trayectoria
 Estadísticas destacadas (12 certificaciones, 280+ horas)
 Totalmente responsive para móvil
+
+03/05/2026
